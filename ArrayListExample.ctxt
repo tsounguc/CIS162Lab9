@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ArrayListExample
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArrayListExample\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ArrayListExample()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArrayListExample\r\n
+comment2.params=str
+comment2.target=void\ addWord(java.lang.String)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=num
+comment4.target=void\ addWords(int)
+comment5.params=str
+comment5.target=int\ search(java.lang.String)
+comment6.params=
+comment6.target=void\ diplayElementPerLine()
+comment7.params=
+comment7.target=void\ removeEveryOther()
+numComments=8
